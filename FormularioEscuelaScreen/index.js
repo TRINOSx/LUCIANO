@@ -1,0 +1,1 @@
+export { FormularioEscuelaScreen } from "./FormularioEscuelaScreen";

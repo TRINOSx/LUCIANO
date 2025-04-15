@@ -1,0 +1,208 @@
+.plantilla-escuela-screen {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.plantilla-escuela-screen .plantilla-escuela-2 {
+  background-color: #ffffff;
+  height: 1080px;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.plantilla-escuela-screen .group-9 {
+  height: 1083px;
+  width: 1918px;
+}
+
+.plantilla-escuela-screen .plantilla-wrapper {
+  background-color: #ffffff;
+  height: 1083px;
+}
+
+.plantilla-escuela-screen .plantilla {
+  background-color: #ffffff;
+  height: 926px;
+  left: 482px;
+  position: relative;
+  top: 79px;
+  width: 954px;
+}
+
+.plantilla-escuela-screen .overlap-13 {
+  height: 173px;
+  left: 51px;
+  position: absolute;
+  top: 174px;
+  width: 854px;
+}
+
+.plantilla-escuela-screen .email-7 {
+  height: 173px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 854px;
+}
+
+.plantilla-escuela-screen .rectangle-copy-5 {
+  height: 173px;
+  left: 110px;
+  position: absolute;
+  top: 0;
+  width: 742px;
+}
+
+.plantilla-escuela-screen .email-8 {
+  color: #474747;
+  font-family: "Montserrat", Helvetica;
+  font-size: 18.1px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 10px;
+  width: 101px;
+}
+
+.plantilla-escuela-screen .image-6 {
+  height: 153px;
+  left: 130px;
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 680px;
+}
+
+.plantilla-escuela-screen .info-3 {
+  height: 207px;
+  left: 51px;
+  position: absolute;
+  top: 356px;
+  width: 852px;
+}
+
+.plantilla-escuela-screen .name-7 {
+  height: 65px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 854px;
+}
+
+.plantilla-escuela-screen .rectangle-11 {
+  height: 65px;
+  left: 110px;
+  position: absolute;
+  top: 0;
+  width: 742px;
+}
+
+.plantilla-escuela-screen .name-8 {
+  color: #474747;
+  font-family: "Montserrat", Helvetica;
+  font-size: 18.1px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 18px;
+  white-space: nowrap;
+  width: 101px;
+}
+
+.plantilla-escuela-screen .email-9 {
+  height: 48px;
+  left: 0;
+  position: absolute;
+  top: 84px;
+  width: 854px;
+}
+
+.plantilla-escuela-screen .rectangle-copy-6 {
+  height: 48px;
+  left: 110px;
+  position: absolute;
+  top: 0;
+  width: 742px;
+}
+
+.plantilla-escuela-screen .email-10 {
+  color: #474747;
+  font-family: "Montserrat", Helvetica;
+  font-size: 18.1px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 9px;
+  width: 95px;
+}
+
+.plantilla-escuela-screen .university-3 {
+  height: 57px;
+  left: 0;
+  position: absolute;
+  top: 150px;
+  width: 854px;
+}
+
+.plantilla-escuela-screen .rectangle-copy-7 {
+  height: 57px;
+  left: 110px;
+  position: absolute;
+  top: 0;
+  width: 742px;
+}
+
+.plantilla-escuela-screen .education-4 {
+  color: #474747;
+  font-family: "Montserrat", Helvetica;
+  font-size: 17.5px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 101px;
+}
+
+.plantilla-escuela-screen .overlap-group-8 {
+  background-color: #d9d9d9;
+  border-radius: 60px;
+  height: 37px;
+  left: 220px;
+  position: absolute;
+  top: 821px;
+  width: 294px;
+}
+
+.plantilla-escuela-screen .text-wrapper-29 {
+  color: #000000;
+  font-family: "Montserrat", Helvetica;
+  font-size: 18.1px;
+  font-weight: 700;
+  left: 109px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 7px;
+}
+
+.plantilla-escuela-screen .overlap-14 {
+  background-color: #b1e2ad;
+  border-radius: 60px;
+  height: 37px;
+  left: 549px;
+  position: absolute;
+  top: 821px;
+  width: 294px;
+}

@@ -1,0 +1,1 @@
+export { PlantillaEscuelaScreen } from "./PlantillaEscuelaScreen";

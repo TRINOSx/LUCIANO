@@ -1,0 +1,1 @@
+export { PlantillaEscuela } from "./PlantillaEscuela";
