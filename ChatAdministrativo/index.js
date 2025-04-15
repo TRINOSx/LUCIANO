@@ -1,0 +1,1 @@
+export { ChatAdministrativo } from "./ChatAdministrativo";
